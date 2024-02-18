@@ -19,6 +19,6 @@ X_TRAIN = "../data/x_train.csv"
 X_TEST = "../data/x_test.csv"
 Y_TRAIN = "../data/y_train.csv"
 Y_TEST = "../data/y_test.csv"
-
+FILTERED_DATA_CSV_PATH = "../data/filtered_df.csv"
 
 BATCH_SIZE = 8

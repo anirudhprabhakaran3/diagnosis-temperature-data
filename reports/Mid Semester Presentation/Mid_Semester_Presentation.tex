@@ -6,6 +6,14 @@
 \usepackage{multirow}
 \usepackage{graphics}
 \usepackage{svg}
+\usepackage{hyperref}
+
+\newcommand\blfootnote[1]{%
+	\begingroup
+	\renewcommand\thefootnote{}\footnote{#1}%
+	\addtocounter{footnote}{-1}%
+	\endgroup
+}
 
 %% preamble
 \title{Classification of Fever Patterns using Deep Learning}
@@ -34,6 +42,7 @@
 				\item Find patterns in temperature data characteristic of various disease.
 			\end{itemize}
 		\end{itemize}
+		\blfootnote{All code for the project can be found at \href{https://github.com/anirudhprabhakaran3/diagnosis-temperature-data}{\underline{this GitHub repository}}.}
 	\end{frame}
 	
 	\section{Data}

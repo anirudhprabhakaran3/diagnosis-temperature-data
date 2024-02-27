@@ -1,0 +1,22 @@
+\begin{thebibliography}{1}
+
+\bibitem{cuesta2020fever}
+D.~Cuesta-Frau, P.~H. Dakappa, C.~Mahabala, and A.~R. Gupta.
+\newblock Fever time series analysis using slope entropy. application to early
+  unobtrusive differential diagnosis.
+\newblock {\em Entropy}, 22(9):1034, 2020.
+
+\bibitem{cuesta2020classification}
+D.~Cuesta-Frau, P.~Mir{\'o}-Mart{\'\i}nez, S.~Oltra-Crespo, A.~Molina-Pic{\'o},
+  P.~H. Dakappa, C.~Mahabala, B.~Vargas, and P.~Gonz{\'a}lez.
+\newblock Classification of fever patterns using a single extracted entropy
+  feature: A feasibility study based on sample entropy.
+\newblock {\em Math. Biosci. Eng}, 17:235, 2020.
+
+\bibitem{dakappa2019unique}
+P.~H. Dakappa, S.~B. Rao, G.~K. Bhat, and C.~Mahabala.
+\newblock Unique temperature patterns in 24-h continuous tympanic temperature
+  in tuberculosis.
+\newblock {\em Tropical Doctor}, 49(2):75--79, 2019.
+
+\end{thebibliography}
